@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FML", "src\FML\FML.fsproj", "{D7668DD5-04DB-4D8C-8E99-CB3C49EC21C6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FML.Tests", "tests\FML.Tests\FML.Tests.fsproj", "{D232D250-337F-4BD8-95CD-2F7C907809FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7668DD5-04DB-4D8C-8E99-CB3C49EC21C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7668DD5-04DB-4D8C-8E99-CB3C49EC21C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7668DD5-04DB-4D8C-8E99-CB3C49EC21C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7668DD5-04DB-4D8C-8E99-CB3C49EC21C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D232D250-337F-4BD8-95CD-2F7C907809FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D232D250-337F-4BD8-95CD-2F7C907809FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D232D250-337F-4BD8-95CD-2F7C907809FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D232D250-337F-4BD8-95CD-2F7C907809FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
